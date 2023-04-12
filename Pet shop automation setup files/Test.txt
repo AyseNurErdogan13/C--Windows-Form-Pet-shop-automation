@@ -1,0 +1,1 @@
+Data Source=LAPTOP-9M8LMV2E;Initial Catalog=PetShopTakip;Integrated Security=True

@@ -19,9 +19,9 @@ This is a pet shop automation project developed in C# programming language using
 
 ##  Installation
 
-Clone the repository using git clone https://github.com/AyseNurErdogan13/CSharp-Windows-Form-Pet-shop-automation.git or download the zip file and extract it.
-Open the solution file PetShopOtomasyonu.sln in Visual Studio.
-Build and run the project.
+- Clone the repository using git clone https://github.com/AyseNurErdogan13/CSharp-Windows-Form-Pet-shop-automation.git or download the zip file and extract it.
+- Open the solution file PetShopOtomasyonu.sln in Visual Studio.
+- Build and run the project.
 
 ## Usage
 
